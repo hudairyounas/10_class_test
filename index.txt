@@ -1,0 +1,14 @@
+1: Define computer program?
+2: What is IDE and explain different IDE Software names?
+3: Define Text Editor?
+4: What is Complier
+5: Define Reserved word and write 5 keyword names?
+6: What is header section?
+7: Define Comments in c language and also explain their types.
+8: Define Purpose of writing comment in c language?
+9: Define Variable?
+10: Define data types of variables?
+11: What are valid variable names and also write 2 valid variable names and 1 invalid variable name.
+12: Can we use reserved word in variable name YES/NO?
+13: Define Variable Declaration?
+14: Define Variable Initialization?
